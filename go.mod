@@ -1,4 +1,4 @@
-module go-oauth2-firestore
+module github.com/danze/go-oauth2-firestore
 
 go 1.25
 
